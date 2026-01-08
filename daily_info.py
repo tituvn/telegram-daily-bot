@@ -3,7 +3,7 @@ import requests
 BOT_TOKEN = "8594042290:AAH1Z51z-e3tjL2tVfjsDIdS0aebvjDNxfE"
 CHAT_ID = "8594042290"
 AQI_TOKEN = "7872308c-03a3-4b21-b4a6-5e11f4c49980"
-CITY = "phuong-phu-thuong"
+CITY = "hanoi"
 
 # Get AQI
 url = f"https://api.waqi.info/feed/{CITY}/?token={AQI_TOKEN}"
